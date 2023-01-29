@@ -2,7 +2,7 @@
 
 ## Theme inspired by the `BlackMetal` theme by [metalelf0](https://github.com/metalelf0).
 
-![Terminal Full](https://github.com/Screenshots/Terminal%20Full.png)
+![Terminal Full](https://github.com/Screenshots/Terminal%2520Full.png)
 ![Terminal Desktop](https://github.com/Screenshots/Terminal%2520Desktop.png)
 
 ## Prerequisites
