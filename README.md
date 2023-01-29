@@ -2,8 +2,8 @@
 
 ## Theme inspired by the `BlackMetal` theme by [metalelf0](https://github.com/metalelf0).
 
-![Terminal Full](https://github.com/Screenshots/Terminal%2520Full.png)
-![Terminal Desktop](https://github.com/Screenshots/Terminal%2520Desktop.png)
+![Terminal Full](https://i.imgur.io/d9w24Ys_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
+![Terminal Desktop](https://i.imgur.io/iwN8o2z_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
 
 ## Prerequisites
 - kitty
